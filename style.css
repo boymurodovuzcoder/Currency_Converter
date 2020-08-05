@@ -72,6 +72,7 @@ ul.currencies li.base-currency {
 }
 .info .input input {
   font-size: 1.5rem;
+  position: relative;
   width: 78%;
   background-color: transparent;
   border: 2px solid #fff;
@@ -170,6 +171,7 @@ ul.add-currency-list li span {
 }
 .add-currency-btn.open i {
   opacity: 1;
+  padding-top: 0.20rem;
   left: 1.25rem;
 }
 .add-currency-btn.open + ul.add-currency-list {
